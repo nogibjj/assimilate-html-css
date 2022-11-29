@@ -1,6 +1,14 @@
 # assimilate-html-css
 Template for building out HTML and CSS
 
+## Lesson 3:  Play around with CSS
+
+next up.git statu
+
+## Lesson 2: Got HTML served out
+
+`node app.js` to html-css-to-do
+
 ## Lesson 1:  Hello World Website
 
 [Reference Hello World Microsoft Tutorial](https://learn.microsoft.com/en-us/cpp/mfc/html-basics?view=msvc-170)
