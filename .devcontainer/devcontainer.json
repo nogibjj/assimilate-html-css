@@ -11,6 +11,9 @@
 				"george-alisson.html-preview-vscode"
 			]
 		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/hugo:1": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/implementors/features.
